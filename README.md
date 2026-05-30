@@ -144,7 +144,7 @@ az role assignment create \
 
 ## Screenshots
 
-### Terraform plan output
+### Terraform main code
 ![Terraform Plan](screenshots/terraform-plan.png)
 
 ### Terraform apply complete
